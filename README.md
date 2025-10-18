@@ -41,26 +41,41 @@ I am recently in Agentic Ai make  agent in medical field
 
 # 📊 GitHub Stats
 <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MuhammadIrfanAI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrfanAI&hide_border=true&background=0,0f2027,203a43,2c5364&theme=dark" alt="GitHub Streak" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kk1234235&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kk1234235&hide_border=true&background=0,0f2027,203a43,2c5364&theme=dark" alt="GitHub Streak" />
 </div>
 
+
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrfanAI&layout=compact&bg_color=0,0f2027,203a43,2c5364&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk1234235&layout=compact&bg_color=0,0f2027,203a43,2c5364&theme=dark&hide_border=true" />
 </div>
+
 
 # 🔝 Top Contributed Repo
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=MuhammadIrfanAI&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
+    <a href="https://github.com/kk1234235/Vision-Language-Powered-Dermatology-Assistant-Using-Swin-Transformer-and-Tongyi-API">
+        <img src="https://github-contributor-stats.vercel.app/api?username=kk1234235&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
+    </a>
+    <br>
+    <a href="https://github.com/kk1234235/Vision-Language-Powered-Dermatology-Assistant-Using-Swin-Transformer-and-Tongyi-API">
+        🧠 Vision-Language Powered Dermatology Assistant Using Swin Transformer and Tongyi API
+    </a>
 </div>
 
-# 🤝 Let's Connect
+
+
+
+
+# 📧 Contact Me
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadirfan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadirfan@gmail.com)
-
+    <a href="mailto:muhammadirfanicp2023@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge" />
+    </a>
 </div>
+
+
+
 
 ---
 
