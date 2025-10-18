@@ -1,31 +1,76 @@
-# Hi 👋, I'm Muhammad Irfan
-
-### Research Analyst
-
-- 🔭 I'm currently working on **Multitask Deep Learning Framework for 
-Multimodal Prediction of Brain 
-Disorder Progression and Cognitive 
-Decline **
-
-- 🌱 I'm currently learning **Agentic Ai**
-
-- 🤝 I'm looking for help with **I’m looking to collaborate on AI-driven medical image analysis, computer vision, and healthcare systems using Transformers, Diffusion Models, and vision-language approaches for smart diagnostics.**
-
-- 💬 Ask me about ** Deep Learning, Vision Transformers, Diffusion Models, and AI-based Healthcare Systems.**
-
-- 📫 How to reach me **muhammadirfanicp2023@gmail.com**
-
-- ⚡ Fun fact **I love building AI models that can see, think, and assist in real-world healthcare.**
-
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1Gmg9joU2NO9gwuEH2QmvRBO3awgf47l3pNk5BVfqyog/edit?tab=t.0](https://docs.google.com/document/d/1Gmg9joU2NO9gwuEH2QmvRBO3awgf47l3pNk5BVfqyog/edit?tab=t.0)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kk1234235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kk1234235" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Muhammad Irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Irfan" height="30" width="40" /></a>
-<a href="https://kaggle.com/Muhammad irfan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Muhammad irfan khan" height="30" width="40" /></a>
+<h1 align="center">👋 I'm Muhammad Irfan</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-🖼️-brightgreen" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-orange" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Medical%20Imaging-🩺-purple" alt="Medical Imaging">
+  <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
+  <img src="https://img.shields.io/badge/AI%20for%20Healthcare-💡-red" alt="AI for Healthcare">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+# 🧑‍💻 About Me
+I’m **Muhammad Irfan**, an AI researcher passionate about integrating **computer vision** and **natural language models** to enhance medical diagnostics.  
+My work focuses on **medical image analysis**, **vision transformers**, and **AI-driven dermatological diagnosis**.  
 
+I recently developed a **Vision-Language Powered Dermatology Assistant** using a **Swin Transformer** for skin disease classification integrated with the **Tongyi API** for natural language explanations.  
+My goal is to make healthcare **intelligent, accessible, and interpretable** through deep learning and multimodal AI systems.
+I am recently in Agentic Ai make  agent in medical field 
+
+# 💻 Tech Stack
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-%23000000.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</div>
+
+# 📊 GitHub Stats
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MuhammadIrfanAI&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0f2027,203a43,2c5364&theme=dark" />
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrfanAI&hide_border=true&background=0,0f2027,203a43,2c5364&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrfanAI&layout=compact&bg_color=0,0f2027,203a43,2c5364&theme=dark&hide_border=true" />
+</div>
+
+# 🔝 Top Contributed Repo
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=MuhammadIrfanAI&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0,0f2027,203a43,2c5364" alt="GitHub Contributor Stats" />
+</div>
+
+# 🤝 Let's Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadirfan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadirfan@gmail.com)
+
+</div>
+
+---
+
+### 💬 Ask me about
+Deep Learning • Vision Transformers • Diffusion Models • AI-based Healthcare Systems
+
+### 👯 I’m looking to collaborate on
+AI-driven medical image analysis, vision-language models, and smart healthcare assistants.
+
+### ⚡ Fun fact
+I love building AI models that can see, think, and assist in real-world healthcare.
+
+<!-- Proudly created by Muhammad Irfan -->
