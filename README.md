@@ -14,7 +14,7 @@ My work focuses on **medical image analysis**, **vision transformers**, and **AI
 
 I recently developed a **Vision-Language Powered Dermatology Assistant** using a **Swin Transformer** for skin disease classification integrated with the **Tongyi API** for natural language explanations.  
 My goal is to make healthcare **intelligent, accessible, and interpretable** through deep learning and multimodal AI systems.
-I am recently in Agentic Ai make  agent in medical field 
+I am recently work pn Agentic Ai make  agent in medical field 
 
 # 💻 Tech Stack
 <div align="center">
